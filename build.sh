@@ -1,7 +1,7 @@
 chmod +x build.sh
 cd /
 cd bash-files
-./build.sh Codebase
+./build.sh CodeEditor
 cd /
-cd workspaces/Codebase
+cd CodeEditor
 
